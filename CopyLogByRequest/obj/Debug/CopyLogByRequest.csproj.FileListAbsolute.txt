@@ -1,0 +1,8 @@
+C:\DEVELOPMENT PROJECTS\CopyLogByRequest\CopyLogByRequest\bin\Debug\CopyLogByRequest.exe.config
+C:\DEVELOPMENT PROJECTS\CopyLogByRequest\CopyLogByRequest\bin\Debug\CopyLogByRequest.exe
+C:\DEVELOPMENT PROJECTS\CopyLogByRequest\CopyLogByRequest\bin\Debug\CopyLogByRequest.pdb
+C:\DEVELOPMENT PROJECTS\CopyLogByRequest\CopyLogByRequest\obj\Debug\CopyLogByRequest.Properties.Resources.resources
+C:\DEVELOPMENT PROJECTS\CopyLogByRequest\CopyLogByRequest\obj\Debug\CopyLogByRequest.csproj.GenerateResource.Cache
+C:\DEVELOPMENT PROJECTS\CopyLogByRequest\CopyLogByRequest\obj\Debug\CopyLogByRequest.exe
+C:\DEVELOPMENT PROJECTS\CopyLogByRequest\CopyLogByRequest\obj\Debug\CopyLogByRequest.pdb
+C:\DEVELOPMENT PROJECTS\CopyLogByRequest\CopyLogByRequest\obj\Debug\CopyLogByRequest.FormMain.resources

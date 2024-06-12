@@ -1,0 +1,9 @@
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\SearchPictureByRequest\bin\Debug\SearchPictureByRequest.exe.config
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\SearchPictureByRequest\bin\Debug\SearchPictureByRequest.exe
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\SearchPictureByRequest\bin\Debug\SearchPictureByRequest.pdb
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\SearchPictureByRequest\obj\Debug\SearchPictureByRequest.FrmMain.resources
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\SearchPictureByRequest\obj\Debug\SearchPictureByRequest.Properties.Resources.resources
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\SearchPictureByRequest\obj\Debug\SearchPictureByRequest.csproj.GenerateResource.cache
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\SearchPictureByRequest\obj\Debug\SearchPictureByRequest.csproj.CoreCompileInputs.cache
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\SearchPictureByRequest\obj\Debug\SearchPictureByRequest.exe
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\SearchPictureByRequest\obj\Debug\SearchPictureByRequest.pdb

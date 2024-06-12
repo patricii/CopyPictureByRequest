@@ -1,0 +1,9 @@
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\CopyLogByRequest\bin\Debug\CopyPictureByRequest.exe.config
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\CopyLogByRequest\bin\Debug\CopyPictureByRequest.exe
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\CopyLogByRequest\bin\Debug\CopyPictureByRequest.pdb
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\CopyLogByRequest\obj\Debug\CopyLogByRequest.FormMain.resources
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\CopyLogByRequest\obj\Debug\CopyPictureByRequest.Properties.Resources.resources
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\CopyLogByRequest\obj\Debug\CopyPictureByRequest.csproj.GenerateResource.cache
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\CopyLogByRequest\obj\Debug\CopyPictureByRequest.csproj.CoreCompileInputs.cache
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\CopyLogByRequest\obj\Debug\CopyPictureByRequest.exe
+C:\DEVELOPMENT PROJECTS\CopyPictureByRequest\CopyLogByRequest\obj\Debug\CopyPictureByRequest.pdb
